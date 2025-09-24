@@ -38,7 +38,7 @@ $page_title = "Página em Construção - Telium Networks";
 <body>
   <header>
     <div class="logo">
-      <img src="logo.png" alt="Logo">
+      <img src="https://telium.com.br/images/footer-logo.png" alt="Logo">
     </div>
     <h1>Sistema de Telefonia</h1>
   </header>
